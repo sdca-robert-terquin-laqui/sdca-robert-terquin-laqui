@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert Terquin C. Laqui</h1>
-<h3 align="center">A passionate student aiming to be software developer in the future.</h3>
+
 
 - 📫 How to reach me **terquinlaqui@gmail.com**
 
